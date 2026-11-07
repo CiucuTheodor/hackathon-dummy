@@ -1,0 +1,344 @@
+[
+  {
+    "id": "prod-head-01",
+    "name": "AuraSound Studio Pro ANC",
+    "category": "headphones",
+    "brand": "AuraSound",
+    "msrp": 349.99,
+    "rating": 4.6,
+    "review_count": 1840,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+    "description": "Premium over-ear wireless headphones with adaptive hybrid active noise cancellation and 40mm beryllium drivers.",
+    "features": [
+      "Hybrid ANC 2.0",
+      "45-hour battery",
+      "Beryllium drivers",
+      "Multipoint Bluetooth 5.4",
+      "Memory foam earcups"
+    ]
+  },
+  {
+    "id": "prod-head-02",
+    "name": "PulseTech QuietFlow Buds",
+    "category": "headphones",
+    "brand": "PulseTech",
+    "msrp": 179.99,
+    "rating": 4.2,
+    "review_count": 920,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
+    "description": "Compact true-wireless earbuds engineered for active commuting with deep bass profile and IPX5 resistance.",
+    "features": [
+      "Spatial Audio 3D",
+      "IPX5 water resistance",
+      "Fast Qi wireless charging",
+      "Transparency mode"
+    ]
+  },
+  {
+    "id": "prod-head-03",
+    "name": "EchoGear BassMax Wireless",
+    "category": "headphones",
+    "brand": "EchoGear",
+    "msrp": 129.99,
+    "rating": 3.9,
+    "review_count": 640,
+    "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&auto=format&fit=crop&q=80",
+    "description": "Club-tuned on-ear wireless headphones with extreme sub-bass boost for electronic music enthusiasts.",
+    "features": [
+      "Sub-bass tactile vibration",
+      "Foldable travel hinge",
+      "30-hour playback",
+      "Built-in mic"
+    ]
+  },
+  {
+    "id": "prod-head-04",
+    "name": "SoundVault Clarity Open-Ear",
+    "category": "headphones",
+    "brand": "SoundVault",
+    "msrp": 159.99,
+    "rating": 4.5,
+    "review_count": 480,
+    "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80",
+    "description": "Air-conduction open-ear sport earphones designed for runners seeking situational awareness.",
+    "features": [
+      "Zero canal fatigue",
+      "Directional sound beam",
+      "Titanium memory frame",
+      "SweatProof coating"
+    ]
+  },
+  {
+    "id": "prod-head-05",
+    "name": "Lumina Audio Elite Wireless",
+    "category": "headphones",
+    "brand": "Lumina",
+    "msrp": 289.99,
+    "rating": 4.4,
+    "review_count": 710,
+    "image_url": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=600&auto=format&fit=crop&q=80",
+    "description": "Audiophile-grade planar magnetic open-back wireless headphones with custom parametric EQ.",
+    "features": [
+      "Planar magnetic drivers",
+      "Lossless LDAC codec",
+      "Aircraft aluminum body",
+      "Detachable boom mic"
+    ]
+  },
+  {
+    "id": "prod-watch-01",
+    "name": "Horizon Chronos Apex",
+    "category": "smartwatches",
+    "brand": "Horizon",
+    "msrp": 429.99,
+    "rating": 4.7,
+    "review_count": 2150,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+    "description": "Titanium sapphire multisport GPS smartwatch with dual-band GNSS, offline topo maps, and ECG monitor.",
+    "features": [
+      "Dual-band GPS",
+      "ECG & SpO2 sensor",
+      "Sapphire glass",
+      "Titanium casing",
+      "14-day battery life"
+    ]
+  },
+  {
+    "id": "prod-watch-02",
+    "name": "PulseTech PulseBand Active",
+    "category": "smartwatches",
+    "brand": "PulseTech",
+    "msrp": 99.99,
+    "rating": 4.1,
+    "review_count": 1330,
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80",
+    "description": "Lightweight fitness tracker with curved AMOLED display, continuous heart-rate tracking, and sleep score.",
+    "features": [
+      "AMOLED 1.47-inch display",
+      "5ATM waterproof",
+      "Continuous stress tracking",
+      "10-day battery"
+    ]
+  },
+  {
+    "id": "prod-watch-03",
+    "name": "Kinetix Ultra Voyager",
+    "category": "smartwatches",
+    "brand": "Kinetix",
+    "msrp": 329.99,
+    "rating": 4.3,
+    "review_count": 870,
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
+    "description": "Rugged outdoor adventure smartwatch with barometric altimeter, storm alerts, and solar charging ring.",
+    "features": [
+      "Solar-assisted charging",
+      "Military standard MIL-STD-810H",
+      "Compass & barometer",
+      "Tactical flashlight"
+    ]
+  },
+  {
+    "id": "prod-watch-04",
+    "name": "Lumina Vibe Minimalist",
+    "category": "smartwatches",
+    "brand": "Lumina",
+    "msrp": 199.99,
+    "rating": 4.0,
+    "review_count": 520,
+    "image_url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&auto=format&fit=crop&q=80",
+    "description": "Sleek circular smartwatch crafted with Italian vegan leather strap and minimalist ambient UI.",
+    "features": [
+      "Always-On OLED display",
+      "NFC contactless pay",
+      "Interchangeable 20mm bands",
+      "Haptic assistant"
+    ]
+  },
+  {
+    "id": "prod-watch-05",
+    "name": "AuraSound Tempo Fitness Smart",
+    "category": "smartwatches",
+    "brand": "AuraSound",
+    "msrp": 149.99,
+    "rating": 3.8,
+    "review_count": 410,
+    "image_url": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&auto=format&fit=crop&q=80",
+    "description": "Audio-centric workout companion that stores music offline and broadcasts audio training cues.",
+    "features": [
+      "Offline music storage 16GB",
+      "Direct earbud pairing",
+      "Running cadence sensor",
+      "VO2 Max analysis"
+    ]
+  },
+  {
+    "id": "prod-phone-01",
+    "name": "Horizon Phantom X Pro",
+    "category": "phones",
+    "brand": "Horizon",
+    "msrp": 999.99,
+    "rating": 4.7,
+    "review_count": 3400,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80",
+    "description": "Flagship smartphone featuring 1-inch sensor camera system, 120Hz LTPO display, and ceramic rear shell.",
+    "features": [
+      "1-inch Sony sensor",
+      "Snapdragon Elite Gen 3",
+      "65W wireless charging",
+      "IP68 water/dust proof"
+    ]
+  },
+  {
+    "id": "prod-phone-02",
+    "name": "Kinetix Neo 5G",
+    "category": "phones",
+    "brand": "Kinetix",
+    "msrp": 499.99,
+    "rating": 4.4,
+    "review_count": 1820,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
+    "description": "Performance-tier midrange smartphone with 144Hz OLED, 5500mAh silicon-carbon battery, and clean OS.",
+    "features": [
+      "5500mAh battery",
+      "144Hz AMOLED",
+      "Clean bloat-free OS",
+      "67W fast turbo charge"
+    ]
+  },
+  {
+    "id": "prod-phone-03",
+    "name": "Lumina Fold Duo",
+    "category": "phones",
+    "brand": "Lumina",
+    "msrp": 1399.99,
+    "rating": 4.1,
+    "review_count": 690,
+    "image_url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&auto=format&fit=crop&q=80",
+    "description": "Zero-crease foldable smartphone offering seamless multitasking tablet mode and stylus input.",
+    "features": [
+      "Zero-gap teardrop hinge",
+      "Stylus support",
+      "Split-screen workspace",
+      "Dual OLED panels"
+    ]
+  },
+  {
+    "id": "prod-phone-04",
+    "name": "PulseTech EcoPocket Core",
+    "category": "phones",
+    "brand": "PulseTech",
+    "msrp": 299.99,
+    "rating": 4.2,
+    "review_count": 940,
+    "image_url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=600&auto=format&fit=crop&q=80",
+    "description": "Eco-designed modular smartphone with 100% recycled casing and easily replaceable components.",
+    "features": [
+      "Modular screwdriver repair",
+      "Recycled ocean plastics",
+      "5 years software updates",
+      "Dual SIM & microSD"
+    ]
+  },
+  {
+    "id": "prod-phone-05",
+    "name": "EchoGear Pocket Gaming 7",
+    "category": "phones",
+    "brand": "EchoGear",
+    "msrp": 699.99,
+    "rating": 4.3,
+    "review_count": 1120,
+    "image_url": "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?w=600&auto=format&fit=crop&q=80",
+    "description": "Mobile gaming powerhouse with ultrasonic shoulder triggers, vapor chamber cooling, and RGB accents.",
+    "features": [
+      "Ultrasonic shoulder triggers",
+      "Internal cooling fan",
+      "165Hz refresh rate",
+      "Bypass charging"
+    ]
+  },
+  {
+    "id": "prod-acc-01",
+    "name": "EchoGear MagStand 3-in-1",
+    "category": "accessories",
+    "brand": "EchoGear",
+    "msrp": 89.99,
+    "rating": 4.5,
+    "review_count": 1490,
+    "image_url": "https://images.unsplash.com/photo-1622445262464-84b1456045b6?w=600&auto=format&fit=crop&q=80",
+    "description": "Magnetic 15W fast wireless charging station for phone, smartwatch, and wireless earbuds simultaneously.",
+    "features": [
+      "15W Qi2 certified fast charge",
+      "Weighted zinc alloy base",
+      "Foldable travel design",
+      "Ambient nightlight"
+    ]
+  },
+  {
+    "id": "prod-acc-02",
+    "name": "Kinetix PowerVault 200W",
+    "category": "accessories",
+    "brand": "Kinetix",
+    "msrp": 119.99,
+    "rating": 4.8,
+    "review_count": 2300,
+    "image_url": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&auto=format&fit=crop&q=80",
+    "description": "25,000mAh airline-approved GaN power bank capable of charging laptops at 140W USB-C PD 3.1.",
+    "features": [
+      "140W Single Port PD 3.1",
+      "Smart TFT color display",
+      "Pass-through charging",
+      "Multi-voltage protection"
+    ]
+  },
+  {
+    "id": "prod-acc-03",
+    "name": "PulseTech AirGrip Ergonomic Case",
+    "category": "accessories",
+    "brand": "PulseTech",
+    "msrp": 34.99,
+    "rating": 4.0,
+    "review_count": 780,
+    "image_url": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=600&auto=format&fit=crop&q=80",
+    "description": "Military-grade drop-tested phone case with integrated kickstand and tactile textured grip.",
+    "features": [
+      "12ft drop protection",
+      "Built-in steel ring kickstand",
+      "MagSafe compatible",
+      "Anti-yellowing polymer"
+    ]
+  },
+  {
+    "id": "prod-acc-04",
+    "name": "AuraSound StreamMic Pro USB",
+    "category": "accessories",
+    "brand": "AuraSound",
+    "msrp": 129.99,
+    "rating": 4.6,
+    "review_count": 1650,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
+    "description": "Studio broadcast microphone with internal pop filter, gain dial, and selectable cardioid/stereo patterns.",
+    "features": [
+      "24-bit 96kHz recording",
+      "Zero-latency monitor jack",
+      "Custom shockmount included",
+      "Touch mute button"
+    ]
+  },
+  {
+    "id": "prod-acc-05",
+    "name": "Horizon SmartGimbal Smooth 4",
+    "category": "accessories",
+    "brand": "Horizon",
+    "msrp": 149.99,
+    "rating": 4.3,
+    "review_count": 890,
+    "image_url": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?w=600&auto=format&fit=crop&q=80",
+    "description": "3-axis handheld smartphone stabilizer with AI object tracking sensor and magnetic phone clamp.",
+    "features": [
+      "AI vision tracking module",
+      "3-axis motorized stability",
+      "Extendable selfie rod",
+      "10-hour battery life"
+    ]
+  }
+]
